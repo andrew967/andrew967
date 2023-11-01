@@ -42,7 +42,7 @@ Hello there! 👋 I'm Andrew, an enthusiastic Applied Computer Science student p
 ---
 
 ### 📫 Let's Connect:    
-  <a href='venskiandrei32@gmail.com' target="blank"><img src='https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png' width='50'></a>
+  <a href='mailto:venskiandrei32@gmail.com' target="blank"><img src='https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png' width='50'></a>
   [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/andrew967)
   <a href='https://t.me/ban_ka' target="blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png' width='50'></a>
 
