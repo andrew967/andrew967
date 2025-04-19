@@ -35,7 +35,7 @@ Hello there! 👋 I'm Andrew, an enthusiastic Applied Computer Science student p
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-<img src='https://gofiber.io/assets/images/logo.svg' width='100'>
+
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,linux)](https://skillicons.dev)
 
